@@ -1,0 +1,15 @@
+{
+  "name": "day1",
+  "version": "2.3.4",
+  "description": "My First Node Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "Sathesh",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.60.0",
+    "yargs": "^6.6.0"
+  }
+}
